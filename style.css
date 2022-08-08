@@ -1,0 +1,24 @@
+/* style.css
+portfolio sheet */
+
+/* colour list */
+/* 1 primary colour = #F5BFD7
+2 primary colour = #E7CFD7
+3 secondary colour = #D8DFD7
+4 secondary colour = #CAEFD7 */
+
+nav {
+  background-color: #F5BFD7;
+  text-align: end;
+  font-size: 25px;
+  color: #ffff;
+  padding: 20px;
+}
+
+.header_box {
+  position: absolute;
+}
+
+footer {
+  background-color: #E7CFD7;
+}
