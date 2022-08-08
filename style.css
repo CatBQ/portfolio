@@ -19,6 +19,22 @@ nav {
   position: absolute;
 }
 
+/* Styling the submit Button */ 
+/*input[type="button"] {
+  background-color: #D8DFD7;
+  font-size: 15px;
+  padding: 10px 15px;
+  border: #CAEFD7;
+  cursor: pointer;
+}*/
+button[type=button] {
+  background-color: #D8DFD7;
+  font-size: 15px;
+  padding: 10px 15px;
+  border: #CAEFD7;
+  cursor: pointer;
+}
+
 footer {
   background-color: #E7CFD7;
 }
