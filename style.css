@@ -1,14 +1,20 @@
 /* style.css
 portfolio sheet */
 
-/* colour list */
-/* 1 primary colour = #F5BFD7
-2 primary colour = #E7CFD7
-3 secondary colour = #D8DFD7
-4 secondary colour = #CAEFD7 */
 
+/* CSS HEX */
+/*--dark-olive-green: #606c38ff;
+--kombu-green: #283618ff;
+--cornsilk: #fefae0ff;
+--earth-yellow: #dda15eff;
+--liver-dogs: #bc6c25ff;*/
+
+/* background colour for the page*/
+body {
+  background-color: #dda15eff;
+}
 nav {
-  background-color: #F5BFD7;
+  background-color: #bc6c25ff;
   text-align: end;
   font-size: 25px;
   color: #ffff;
@@ -20,21 +26,14 @@ nav {
 }
 
 /* Styling the submit Button */ 
-/*input[type="button"] {
-  background-color: #D8DFD7;
-  font-size: 15px;
-  padding: 10px 15px;
-  border: #CAEFD7;
-  cursor: pointer;
-}*/
 button[type=button] {
-  background-color: #D8DFD7;
+  background-color: #fefae0ff;
   font-size: 15px;
   padding: 10px 15px;
-  border: #CAEFD7;
+  border: #fefae0ff;
   cursor: pointer;
 }
 
 footer {
-  background-color: #E7CFD7;
+  background-color:#fefae0ff;
 }
